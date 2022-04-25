@@ -1,4 +1,4 @@
-## Olá! Eu sou a Bel, estudante de desenvolvimento web na Trybe.
+## Olá! Eu sou a Bel, sou desenvolvedora web full-stack
 
 
 :rocket: Habilidades: JavaScript, React, Redux, Jest,  Docker, Node.js, Express.js, Typescript, MySQL, Sequelize, MongoDB, Mocha.
