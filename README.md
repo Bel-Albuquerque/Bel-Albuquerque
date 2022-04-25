@@ -1,4 +1,9 @@
 ## Olá! Eu sou a Bel, estudante de desenvolvimento web na Trybe.
+
+
+:rocket: Habilidades: JavaScript, React, Redux, Jest,  Docker, Node.js, Express.js, Typescript, MySQL, Sequelize, MongoDB, Mocha.
+
+:briefcase: Ferramentas: VSCode, Trello, Vercel, Heroku, Figma, GitHub.
 <div align="center">
   <a href="https://github.com/Bel-Albuquerque">
   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=Bel-Albuquerque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
